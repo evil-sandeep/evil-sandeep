@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Sahoo</h1>
 <h3 align="center">A passionate and driven Programmer from India</h3>
-<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ColorfulUnevenIndianhare-size_restricted.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
 - 🌱 I’m currently learning **React, Next JS, TypeScript.**
 
