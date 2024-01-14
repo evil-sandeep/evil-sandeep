@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and driven Programmer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
 
-- 🌱 I’m currently learning **React, Next JS, TypeScript.**
+- 🌱 I’m currently learning **MERN STACK [MONGODB,EXPRESS,REACT,NODE].**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sandeep-kumar-sahoo0000](https://www.linkedin.com/in/sandeep-kumar-sahoo0000)
 
